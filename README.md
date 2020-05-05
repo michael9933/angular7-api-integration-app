@@ -1,4 +1,13 @@
-# Angular Tour Of Heroes
+### Questions:
+## How will consume an API end point? Please write a service calling for fetching blogs
+## How will you subscribe an angular service in component? Please write code to show.
+## How will reverse order of blogs by name?
+## How will you filter out blogs which contains text 'sunt aut' in title?
+## How will you render data from components to html
+## How will you write unit tests?
+
+
+# Angular Tour Of Blogs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
@@ -21,3 +30,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/)
+
